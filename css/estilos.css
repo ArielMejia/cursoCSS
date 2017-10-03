@@ -1,5 +1,10 @@
+body {
+	background: #E1D7D7;
+}
+
 nav {
 	background: #A09B9B;
+	width: 1000px;
 }
 
 article {
@@ -9,8 +14,27 @@ article {
 	padding: 10px 20px;
 	border: 2px solid #000;
 	display: inline-block;
+	color: #FFFFFF;
+
 }
 
 footer {
 	background: #A09B9B;
+	width: 1000px;
+	position: absolute;
+	top: 600px	
+}
+
+aside {
+	background:#ABBDC0;
+	position: fixed;
+	top: 43px;
+	bottom:0; 
+	right:0;
+	left: 1020px;
+	height: 605px;
+}
+
+.sidebar{
+	
 }
