@@ -1,0 +1,16 @@
+nav {
+	background: #A09B9B;
+}
+
+article {
+	background: #1BAFF4;
+	width: 300px;
+	margin: 20px 50px;
+	padding: 10px 20px;
+	border: 2px solid #000;
+	display: inline-block;
+}
+
+footer {
+	background: #A09B9B;
+}
