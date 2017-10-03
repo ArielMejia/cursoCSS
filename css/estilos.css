@@ -35,6 +35,23 @@ aside {
 	height: 605px;
 }
 
-.sidebar{
-	
+.tres {
+	font-family: "Verdana";
+}
+
+.uno,.dos {
+	font-weight: bold;
+}
+
+.parra {
+	font-size: 20px;
+	line-height:23px; /*alto de linea*/ 
+}
+
+h2{
+	color: black;
+}
+
+.sidebar {
+	text-align: center;
 }
